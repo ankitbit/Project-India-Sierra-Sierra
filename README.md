@@ -22,3 +22,7 @@ Course Repository for Project India Sierra Sierra
 ### PART 4: 
 - Multivariate Analysis
   - [Multivariate Analysis](http://nptel.ac.in/courses/111105091/10) ( Every Monday and Wednesday )
+
+
+## References-
+- [Professor Shalabh](http://home.iitk.ac.in/~shalab/course.htm): Department of Mathematics & Statistics, Indian Institute of Technology, Kanpur

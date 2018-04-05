@@ -4,6 +4,8 @@ Course Repository for Project India Sierra Sierra
 ### PART 1: 
 - [Probability Theory and Mathematical Statistics]()
 
+- [Numerical Methods]() - Strict instruction to pursue 5 topics every week and continuing for eight weeks on this track. 
+
 ### PART 2:
 
 ### PART 3: 
@@ -18,4 +20,5 @@ Course Repository for Project India Sierra Sierra
   - [Introduction to Time Series Analysis](http://nptel.ac.in/courses/103106123/)
   
 ### PART 4: 
-- [Multivariate Analysis](http://nptel.ac.in/courses/111105091/10) ( Every Monday and Wednesday )
+- Multivariate Analysis
+  - [Multivariate Analysis](http://nptel.ac.in/courses/111105091/10) ( Every Monday and Wednesday )
